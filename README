@@ -50,7 +50,7 @@ source venv/bin/activate
 
 3. **Install required packages**
 
-   pip install pyodbc pandas numpy openpyxl pyautogui scipy
+   pip install pyodbc pandas numpy openpyxl pyautogui scipy pillow pyscreeze opencv-python
 
 4. **Configure db_config.JSON**
 
