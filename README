@@ -1,0 +1,61 @@
+# SageStockAutomation
+
+A Python-based automation tool designed to streamline stock control and goods inward processing for Sage ERP 1000. This project features a Tkinter GUI interface, SQL Server database integration, and utilities to simplify stock management workflows.
+
+---
+
+## Features
+
+- Interactive Tkinter GUI for product and supplier filtering
+- SQL Server connectivity via pyodbc for dynamic data querying
+- Modular scripts including:
+  - `count.py` — Main stock counting interface
+  - `inward_sum.py` — Summary and reporting of goods inward data
+  - Other utility scripts for data processing and automation
+- JSON-based persistence for session data
+- Easy extendibility for future enhancements
+
+---
+
+## Prerequisites
+
+- Python 3.8 or higher
+- Windows OS (tested on Windows 10/11)
+- Microsoft SQL Server database with proper access credentials
+- Required Python packages:
+  - `pyodbc`
+  - `pandas`
+  - `tkinter` (usually included with Python)
+  - `openpyxl` (for Excel integration)
+  - `json` (standard library)
+  - Other dependencies as specified in `requirements.txt` if available
+
+---
+
+## Installation
+
+1. **Clone the repository:**
+
+
+   git clone https://github.com/DaocDrav/SageStockAutomation.git
+   cd SageStockAutomation
+
+2. **Create and activate a virtual environment (recommended):**
+
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+
+3. **Install required packages**
+
+   pip install pyodbc pandas numpy openpyxl pyautogui scipy
+
+4. **Configure db_config.JSON**
+
+   Enter SQL database details into assets/db_config.JSON to connect to your database
+
+5. **Usage**
+   Launch the main application:-
+   python main.py
