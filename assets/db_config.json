@@ -1,0 +1,8 @@
+{
+    "database": {
+        "server": "YOUR SERVERNAME",
+        "database_name": "YOUR DBNAME",
+        "username": "YOURUSERNAME",
+        "password": "YOURPASSWORD"
+    }
+}
