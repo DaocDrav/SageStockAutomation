@@ -1,0 +1,2 @@
+;WORKSPACE_MODE=FALSE
+PrintReport[IQOSTransfer]=C:\PythonProjects\pythonProject\IbcoStockControl\iqos_auto_print.rpt?DiscardSavedData=True&dbserver=IBCO-SQL2019&dbdb=ibco&dbuser=sa&dbpass=Sun$h!n32&printername=Loading Bay Laser&printorientation=Portrait&PrintSupressIfNoRecords=True&param[@order_no]=IBC025565                        &

@@ -1,0 +1,32 @@
+[
+    {
+        "Product":"070020011",
+        "Long Description":"100\/150 IQF  CPP NT 350GM MR PRAWN      ",
+        "Brand":"MR PRAWN  ",
+        "Pack Size":"30X454G   ",
+        "Cost Price":35,
+        "Qty Free":49,
+        "Bin Number":"TEST1",
+        "Best Before":"01\/01\/27"
+    },
+    {
+        "Product":"070020011",
+        "Long Description":"100\/150 IQF  CPP NT 350GM MR PRAWN      ",
+        "Brand":"MR PRAWN  ",
+        "Pack Size":"30X454G   ",
+        "Cost Price":35,
+        "Qty Free":49,
+        "Bin Number":"TEST2",
+        "Best Before":"01\/01\/27"
+    },
+    {
+        "Product":"070020011",
+        "Long Description":"100\/150 IQF  CPP NT 350GM MR PRAWN      ",
+        "Brand":"MR PRAWN  ",
+        "Pack Size":"30X454G   ",
+        "Cost Price":35,
+        "Qty Free":49,
+        "Bin Number":"TEST3",
+        "Best Before":"01\/01\/27"
+    }
+]

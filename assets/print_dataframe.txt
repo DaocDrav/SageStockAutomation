@@ -1,0 +1,16 @@
+  Product                          Long Description      Brand  Pack Size Cost Price  Qty Free
+240030001  MATILDA FUDGE INDIVIDUAL PACK (12PCS)    CLASSIC    01X01            27.6         4
+240030002  ORIGINAL DREAM CAKE (12PCS)              CLASSIC    01X01            31.8        10
+240030004  FUDGE CAKE (12 SLICES)                   CLASSIC    01X01           12.25         7
+240030005  PLAIN CHEESECAKE 10" (12 SLICES)         CLASSIC    01X01            15.5         7
+240030008  RED VELVET (12 SLICES)                   CLASSIC    01X01           12.25         7
+240030009  CARAMELISED CHEESECAKE (16PCS)           CLASSIC    01X01              25         7
+240030010  VICTORIA MILK CAKE (16PCS)               CLASSIC    01X01            16.8        10
+240030011  HAZELNUT CHEESECAKE (16PCS)              CLASSIC    01X01              25         7
+240030012  COOKIE & CREAM CHEESECAKE (16PCS)        CLASSIC    01X01              25         5
+240030013  HAZELNUT CHEESECAKE 10" (12 SLICES)      CLASSIC    01X01            15.5         7
+240030014  COOKIE & CREAM CHEESECAKE 10" (12 SLICES CLASSIC    01X01            15.5         7
+240030015  PEANUT BUTTER STACK (8PCS)               CLASSIC    01X01            14.5         1
+240030016  PISTACHIO MILK CAKE (16PCS)              CLASSIC    01X01            16.8         9
+240030017 DESSERT PARLOUR POTS (18PCS)              CLASSIC    01X01              21         7
+240030018  LOTUS MILK CAKE (12PCS)                  CLASSIC    01X01                         1
