@@ -1,8 +1,6 @@
 # SageStockAutomation
 
-A Python-based automation tool designed to streamline stock control and goods inward processing for Sage ERP 1000. This project features a Tkinter GUI interface, SQL Server database integration, and utilities to simplify stock management workflows.
-
----
+A Python-based automation tool designed to streamline stock control, goods inward processing & goods transfers for Sage ERP 1000. This project features a Tkinter GUI interface, SQL Server database integration, and utilities to simplify stock management workflows.
 
 ## Features
 
@@ -14,10 +12,16 @@ A Python-based automation tool designed to streamline stock control and goods in
   - Other utility scripts for data processing and automation
 - JSON-based persistence for session data
 - Easy extendibility for future enhancements
+- Count stock, update purchase orders, and paste sites/bins, quantities & best befores into Sage Line 1000 ERP
+- Automate Goods Transfers into Sage Line 1000 ERP using specified minimum reorder levels into picking bays.
 
----
+## Video Demonstration
+[![Watch the demo](https://img.youtube.com/vi/jaglMFYmt6U/0.jpg)](https://youtu.be/jaglMFYmt6U)
 
-## Prerequisites
+Click the image above to watch a short video demo of the application in action.
+
+## Requirements
+
 
 - Python 3.8 or higher
 - Windows OS (tested on Windows 10/11)
@@ -28,11 +32,9 @@ A Python-based automation tool designed to streamline stock control and goods in
   - `tkinter` (usually included with Python)
   - `openpyxl` (for Excel integration)
   - `json` (standard library)
-  - Other dependencies as specified in `requirements.txt` if available
 
----
 
-## Installation
+## Setup
 
 1. **Clone the repository:**
 
@@ -59,3 +61,11 @@ source venv/bin/activate
 5. **Usage**
    Launch the main application:-
    python main.py
+   
+   
+
+## License
+
+MIT License 
+
+
